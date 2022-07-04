@@ -54,8 +54,9 @@ h1, h2, h3, h4, h5, h6{
 /*  INTRO */
 .video{
     position: fixed;
-    top: 75px;
+    top: 0;
     left: 0;
+    height 100%
     z-index: -1;
 }
 
